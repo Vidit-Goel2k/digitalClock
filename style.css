@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #212121;
+    color: azure;
+}
+
+#main{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h1{
+    margin-bottom: 10px;
+    color: azure;
+}
+#clock{
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: orange;
+    text-align: center;
+    line-height: 40px;
+    color: black;
+}
